@@ -1,0 +1,6 @@
+li {
+  color: black /* bullet color */
+}
+li span {
+  color: blue; /* text color */
+  }
